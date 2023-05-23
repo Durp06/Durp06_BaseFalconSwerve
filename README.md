@@ -7,6 +7,7 @@ This code was designed with Swerve Drive Specialties MK3, MK4, and MK4i style mo
 
 **Setting Constants**
 ----
+**DURPS NOTE:** When starting this project, make sure to set your **TEAM NUMBER** and is you have one, your **CAN BUS** (and initialize all your modules with it
 The following things must be adjusted to your robot and module's specific constants in the Constants.java file (all distance units must be in meters, and rotation units in radians):</br>
 These instructions are mostly followable from Step 
 1. Gyro Settings: ```pigeonID``` and ```invertGyro``` (ensure that the gyro rotation is CCW+ (Counter Clockwise Positive)
